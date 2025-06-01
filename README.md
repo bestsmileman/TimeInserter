@@ -18,3 +18,5 @@
 1. Python이 설치되어 있어야 합니다
 2. AutoHotkey v2가 설치되어 있어야 합니다
 3. `.ahk` 파일을 실행하고, 원하는 앱에서 F9 또는 F10을 눌러보세요
+
+개발자: Aju, Bing, GPT, Gemini
