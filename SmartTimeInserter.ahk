@@ -1,7 +1,7 @@
 ﻿; SmartTimeInserter.ahk (AHK v2 최종 수정본)
 
 F9::{
-    RunWait("python get_time.py", , "Hide")
+    RunWait("python get_time.exe", , "Hide")
     Sleep 300
     TimeText := FileRead("temp_time.txt", "UTF-8")
     A_Clipboard := TimeText
